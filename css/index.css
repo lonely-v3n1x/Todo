@@ -1,0 +1,33 @@
+body {
+  background-color: #1ac8f4;
+}
+
+h1 {
+  text-align: center;
+  color: #6307a5;
+}
+
+.txt input {
+  /*background-color: red;
+  margin: 0 auto;
+  padding: 15px;
+  width: 300px;
+  border: .5px solid ;
+  border-radius: 7px;*/
+  border-radius: 20px;
+  border: 1px solid #2d9fd9;
+  color: #a0d18c;
+  width: 250px;
+  height: 30px;
+  padding-left: 10px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.txt {
+  text-align: center;
+}
+
+hr {
+  background-color: #5a696db1;
+}
